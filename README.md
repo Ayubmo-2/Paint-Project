@@ -30,7 +30,3 @@ javac -d bin src/**/*.java
 java -cp bin Main
 ```
 
-## Repo
-
-[github.com/Ayubmo-2/Paint-Project](https://github.com/Ayubmo-2/Paint-Project)
-
